@@ -1,0 +1,6 @@
+1- install anaconda distidution : https://www.anaconda.com/distribution/
+2- open anaconda navigator and install jupyter notebook
+3-open anaconda comand promp and pip install numpy & matplotlib
+4- in aaconda comand promp and create environment  file attached "open_cv.yml"
+5-copy all folder in " C:\user "folder
+6-open jupyter notebook
